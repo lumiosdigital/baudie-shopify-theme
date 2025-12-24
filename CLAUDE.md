@@ -1,0 +1,1 @@
+/Users/nicolascantarelli/Developer/lumios-digital/baudie/baudie-theme/AGENTS.md
